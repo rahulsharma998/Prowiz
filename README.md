@@ -35,7 +35,7 @@ KPI Tracker is a web-based dashboard application that helps users track key perf
 ## 🚀 Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/kpi-tracker.git
+   git clone [(https://github.com/rahulsharma998/Prowiz)]
    cd kpi-tracker
    ```
 
